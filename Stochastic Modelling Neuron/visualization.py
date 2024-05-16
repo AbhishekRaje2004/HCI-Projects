@@ -11,3 +11,4 @@ def plot_firing_rates(firing_rates):
     plt.title('Firing Rates of Neurons')
     plt.show()
 
+
