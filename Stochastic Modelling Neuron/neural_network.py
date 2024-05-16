@@ -19,3 +19,4 @@ def create_neural_network(num_neurons=100, connectivity=0.1):
     
     return neurons, synapses
 
+
