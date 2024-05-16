@@ -5,3 +5,4 @@ def stochastic_activation(neurons, activation_rate=0.01):
     random_activations = np.random.binomial(1, activation_rate, size=len(neurons))
     neurons.v += random_activations
 
+
